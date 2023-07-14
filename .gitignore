@@ -1,0 +1,5 @@
+.DS_Store
+.favorites.json
+
+node_modules
+package-lock.json
